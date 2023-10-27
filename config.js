@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/OktaModz'
+global.sig = 'https://instagram.com/wajahlesu'
 global.syt = 'https://youtu.be/ChataOfc-'
-global.sgh = 'https://github.com/ChataOfc'
-global.sgc = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk'
-global.swa = 'wa.me/6285731947500'
+global.sgh = 'https://github.com/Dianyan16'
+global.sgc = 'https://chat.whatsapp.com/EyYi7h3RoWTEyaX1lvrZK1'
+global.swa = 'wa.me/6281536907492'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
+global.pdana = '081536907492'
 global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
+global.pgopay = '081536907492'
+global.ppulsa = '081536907492'
+global.ppulsa2 = '081536907492'
 global.psaweria = 'https://saweria.co/oktakc'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
-global.namebot = 'Nakano Nino'
-global.nameown = 'Okta'
+global.nomorbot = '6285765680162'
+global.nomorown = '6281536907492'
+global.namebot = 'Fannart'
+global.nameown = 'Dian'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta', 'true']
+  ['6281536907492', 'Dian', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -103,16 +103,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Nakano Ninoラ | By Okta' //Main Watermark
-global.wm2 = 'Okta'
-global.wm3 = 'Jangan Lupa Subscribe ChataOfc-'
+global.wm = 'Fannart | By Dian' //Main Watermark
+global.wm2 = 'Dian'
+global.wm3 = 'powered by Duan'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NinoBotzラ | ʙʏ ${global.nameown}`
-global.author = 'Okta' 
-global.packname = 'ChataOfc'
+global.titlebot = `Fannart bot | ʙʏ ${global.nameown}`
+global.author = 'Dian' 
+global.packname = 'Fannart'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'November 4 2023'
+global.ultahowner = 'AGUSTUS 07 2003'
 
 
 /*============== LOGO ==============*/
@@ -127,11 +127,11 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Nakano Nino Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Okta* Saya di rilis pada tanggal\n🗓 ️_22/01/2023_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Okta'
-global.umurowner = '16'
+global.nameowner = 'Dian'
+global.umurowner = '20'
 global.asalowner = 'Indonesia'
-global.nomorowner = 'wa.me/6285731947500'
-global.pacarowner = 'Chaca'
+global.nomorowner = 'wa.me/6281536907492'
+global.pacarowner = 'Emote batu'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
